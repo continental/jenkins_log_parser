@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+
+[dev-packages]
+pytest = "*"
+pytest-runner = "==4.4"
+twine = "*"
+sphinx = "*"
+recommonmark = "*"
+gitpython = "*"
+sphinxcontrib-plantuml = "*"
+pytest-cov = "*"
+pytest-pylint = "*"
+pytest-pep8 = "*"
+pylint = "*"
+coverage = "*"
+pydot = "*"
+texttable = "*"
+pipenv-setup = "*"
+
+[packages]
+
+[requires]
+python_version = "3.5"

@@ -1,0 +1,6 @@
+#! /usr/bin/env python3
+
+import jenkins_log_parser.jenkins_log_parser as jjlp
+
+if __name__ == "__main__":
+    jjlp.main()
